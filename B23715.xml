@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Tingmouth; Torbay and Exon. Giving an account of the several actions of the French invaders. And Their Majesties forces of Devonshire. The surrendring of several Roman Catholicks, and other material occurrances. In a letter from Exon.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23715</idno><idno type="EEBO-CITATION">99886684</idno>
+  <idno type="VID">187654</idno>
+  <idno type="EEBO-PROQUEST">2240890626</idno>
+  
+            <idno type="STC">Wing G1739</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[93]</idno>
+            <idno type="STC">ESTC R226372</idno>
+            <idno type="PROQUEST">ocm99886684</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886684e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187654)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[90])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Tingmouth; Torbay and Exon. Giving an account of the several actions of the French invaders. And Their Majesties forces of Devonshire. The surrendring of several Roman Catholicks, and other material occurrances. In a letter from Exon.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Brown in Little Britain,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: cropped at head; print faded.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Campaigns --  England</term>
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187654:1"/>
+            <pb facs="tcp:187654:1"/>
+            <head>Great News from <hi>Tingmouth: Torbay and Exon.</hi> GIVING AN ACCOUNT Of the several Actions of the FRENCH Invaders. And Their Majestes <hi>Forces of Devonshire.</hi> The Surrendring of several Roman Catholicks, and other Material Occurrances.</head>
+            <head>In a Letter from EXON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE <hi>French</hi> Fleet having been on our Coast for several Days past, some<g ref="char:EOLhyphen"/>times Coasting about, other time at Anchor at <hi>Torbay,</hi> has had this good effect, as to put us in a very good posture of Defence. On <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> Morning, about Day-break, their whole Fleet, being with their Gallies about one hundred and twenty Sail, weighed Anchor, and stood in for a small Fishery Village, called <hi>Tingmouth.</hi> About 5 a Clock the Galleys drew very near the Shoar of the said place, their Men of War at the same time play'd their Cannon on the Shoar, for the space of about an Hour, or an Hour and half; which scared the poor Inhabitants from their Cot<g ref="char:EOLhyphen"/>tages, they first taking with them what of any value, so short a war<g ref="char:EOLhyphen"/>ning and great fright would per<g ref="char:EOLhyphen"/>mit them: The Inhabitants being Fled, the Invaders immediately Landed their Men in their Long<g ref="char:EOLhyphen"/>boats, to the number of one thou<g ref="char:EOLhyphen"/>sand Foot; who being no sooner come on Shoar, but they presently set the Town on Fire; (which was soon done, there being never a House in the place but was thatch<g ref="char:EOLhyphen"/>ed, except the Parsons, which was covered with <hi>Cornish</hi>-Slate;) they
+<pb facs="tcp:187654:2"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> two or three Fisher-Boats <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> River, and the Bea<g ref="char:EOLhyphen"/>con, and Plunder'd some other stragling Houses.</p>
+            <p>Upon the News of this Villain<g ref="char:EOLhyphen"/>ous Attempt; and bold Invasion, the Militia of the Country, Horse and Foot, immediately made a Body, and marched after the In<g ref="char:EOLhyphen"/>vaders▪ shewing a great deal of Zeal and Resolution to Serve Their Majesties and Country upon this extraordinary occasion, the Nobi<g ref="char:EOLhyphen"/>lity and Gentry of the Country <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ancing at the Head of them, with the Hereditary Courage and Bravery, which has always run in the Blood of the Gentlemen of this <hi>County,</hi> who for several Ages have bred Men Famous for their several Valorous Exploits, both by Sea and Land, in Defence of their Country, such as Sir <hi>Fran. Drake,</hi> Sir. <hi>Hugh Gibert,</hi> General <hi>Monk,</hi> Duke of <hi>Albemarle,</hi> Sir <hi>Walter Rawleigh,</hi> Sir <hi>R. Greenvil,</hi> Lord <hi>Andley;</hi> with many others.</p>
+            <p>The Invadours, having Intelli<g ref="char:EOLhyphen"/>gence by their Scouts of the Po<g ref="char:EOLhyphen"/>sture of our Forces, and that we were moving toward them, they immediately prepared for to return to their Ships, and to make good their Retreat; they Landed Sea<g ref="char:EOLhyphen"/>ven or Eight small Peices of Can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use by the Shoar side, to Play <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Horse in case we came too quick upon them, we do not hear they gave out and Declara<g ref="char:EOLhyphen"/>tions, or made any Pretentions for the late King <hi>James,</hi> or that one Soul in the whole Country, even the worst Roman Catholick, pre<g ref="char:EOLhyphen"/>tended to come into them, but on the contrary several adjacent Ro<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>man Catholick Gentlemen, hea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing of the Villany of the Invad<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s on their Native Country, ha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Voluntary Surrendred themselve<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and offered all the security imagi<g ref="char:EOLhyphen"/>nable for their Peaceable and good Behaviour.</p>
+            <p>
+               <hi>Tingmouth,</hi> the Place where these Villains Landed, consisted of not above Forty Five small Cot<g ref="char:EOLhyphen"/>tages, most belonging to Poor Fish<g ref="char:EOLhyphen"/>er-Men, who got a poor Lively<g ref="char:EOLhyphen"/>hood there, it lying just upon the Sea; it's 17 Miles from the City of <hi>Exon,</hi> in the mid way, between the River <hi>Exon</hi> and <hi>T<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> there being no considerable Town be<g ref="char:EOLhyphen"/>tween that and <hi>Exon.</hi>
+            </p>
+            <p>In the latter part of the Reign of King <hi>Henry</hi> the Fourth; the <hi>French</hi> Landed on these Coasts, near the Town of <hi>Plymouth,</hi> and Burnt about Sixty Houses near that Part of the Town now called <hi>Britain</hi> side, and then were bea<g ref="char:EOLhyphen"/>ten to their Ships again by the In<g ref="char:EOLhyphen"/>habitants of the Country, Queen <hi>Elizabeth,</hi> of Famous Memory, was pleased to say of the Gentry of this County, that they were all Born Courtiers and Souldiers, with a becoming Confidence, and Na<g ref="char:EOLhyphen"/>tural Valour.</p>
+            <p>The City of <hi>Exon</hi> was highly commended for it's Loyalty, when Besieged by <hi>Perkin Warbeck,</hi> in the Reign of <hi>Henry</hi> 7th. and by the Western Rebels in the Reign of <hi>Edward</hi> 6th. by the Parliament Forces in <hi>Charles 1st.</hi> their Valour was invincible in the two First, and their Loyalty unstained in the Last.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>W. Brown</hi> in <hi>Little Britain,</hi> 1690.</p>
+            <pb facs="tcp:187654:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
